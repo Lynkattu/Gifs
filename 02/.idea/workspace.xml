@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="3c08fdcc-4ffb-45a4-963a-41e6e894bc2a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../01/app/src/main/kotlin/httpclients/App.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../01/app/src/main/kotlin/httpclients/App.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/retrofit/App.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/retrofit/App.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

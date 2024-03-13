@@ -92,8 +92,7 @@ fun main(args: Array<String>) {
                         //specific endpoint in url
                         val endpoint = args[i]
                         // Makes a network call to fetch a joke and stores the result.
-                        val user : User = service.fetchRetrofit(endpoint)  // <-- ja täällä
-                        // Prints the joke's value to the console.
+                        val user : User = service.fetchRetrofit(endpoint)
                         println(user.name)
                     }
                 }
